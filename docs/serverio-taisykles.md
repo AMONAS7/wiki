@@ -2,7 +2,7 @@
 id: serverio-taisykles
 title: Serverio taisyklės
 ---
-:::danger ĮSPĖJIMAS
+ĮSPĖJIMAS
 Taisyklių nežinojimas nuo atsakomybės neatleidžia!
 :::
 
